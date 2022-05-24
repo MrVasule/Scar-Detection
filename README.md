@@ -96,8 +96,9 @@ YOLOv5 was used to train and test our model for various classes like clean, dama
 #### Jetson Nano 2GB Developer Kit.
 
 
- file:///home/nikhil/jetson_nano/SparrowAI/nano_Images/IMG_20220125_115121.jpg
 
+ 
+ file:///home/nikhil/jetson_nano/SparrowAI/nano_Images/IMG_20220125_115056.jpg
 
 
 
