@@ -200,6 +200,7 @@ https://user-images.githubusercontent.com/98605645/169963299-591c90cd-4f97-49b1-
 
 
 
+
 #### Advantages -
 
 The Floor detection system will be of great advantage where a user has lack of time, motivation, unwell or differently abled.
